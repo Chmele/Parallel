@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(73,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication3.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

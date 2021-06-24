@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(49,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(59,9): warning C4476: 'printf' : unknown type field character '\n' in format specifier
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(68,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(79,9): warning C4476: 'printf' : unknown type field character '\n' in format specifier
+  ConsoleApplication2.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

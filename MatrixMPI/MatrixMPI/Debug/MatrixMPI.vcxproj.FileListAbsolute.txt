@@ -1,0 +1,4 @@
+F:\proga\СИСИ2ПЛЮС\MatrixMPI\Debug\MatrixMPI.exe
+F:\proga\СИСИ2ПЛЮС\MatrixMPI\Debug\MatrixMPI.pdb
+C:\Users\admin\Desktop\MatrixMPI\MatrixMPI\Debug\MatrixMPI.exe
+C:\Users\admin\Desktop\MatrixMPI\MatrixMPI\Debug\MatrixMPI.pdb
